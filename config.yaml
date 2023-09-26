@@ -1,0 +1,7 @@
+embedding:
+  model: "thenlper/gte-base"
+openai:
+  number_documents: 3
+  temperature: 0.1
+  stream: true
+
