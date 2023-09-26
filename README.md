@@ -1,6 +1,6 @@
 # ConstitutionAI
 
-ConstitutionAI is a GPT-powered app that allows you to query the Indian constitution using OpenAI's GPT-3 model. It uses a combination of HuggingFace's transformers for embedding and OpenAI's language model for generating responses. The application is designed to provide quick and accurate responses to queries related to the Indian constitution.
+ConstitutionAI is a GPT-powered app that allows you to query the Indian constitution using OpenAI's GPT-3 model. It uses a combination of sentence-transformers embedding model and OpenAI's language model for generating responses. The application is designed to provide quick and accurate responses to queries related to the Indian constitution.
 
 ## Features
 
